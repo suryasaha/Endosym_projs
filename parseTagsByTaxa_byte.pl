@@ -1,6 +1,7 @@
 #!/usr/bin/perl -w
 # PPath@Cornell
 # Surya Saha Feb 24, 2012
+# Tassel pipeline file
 
 use strict;
 use warnings;
